@@ -1,0 +1,19 @@
+body{
+  background-color:#b3ccff;
+  font-family:Impact; /*Changes font of entire website to Impact*/
+  display: block;
+  margin: 0px 10% 0 10%; /*remember top, right, bottom left */
+  color: #333333;
+  font-size:
+}
+
+h1{
+  color:#ffffff;
+  text-align: center;
+  text-shadow: 1px 0 0 #333333, 0 -1px 0 #333333, 0 1px 0 #333333, -1px 0 0 #333333;
+  font-size: 40px;
+}
+
+  monkeys{
+
+  }
